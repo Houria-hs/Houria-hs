@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=blueviolet" />
 </p>
 
----
+
 
 # 🚀 About Me
 
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I enjoy turning ideas into beautiful digital experiences.
 - 🎨 Hobbies: Coding, Reading, Painting, Crocheting, Playing Guitar.
 
----
+
 
 # 🌐 Connect With Me
 
@@ -47,7 +47,7 @@
 
 </p>
 
----
+
 
 # 💻 Tech Stack
 
@@ -59,7 +59,7 @@
 
 </p>
 
----
+
 
 ## ⚛️ Frontend
 
@@ -69,7 +69,7 @@
 
 </p>
 
----
+
 
 ## 🛠 Backend
 
@@ -79,7 +79,7 @@
 
 </p>
 
----
+
 
 ## 🗄️ Databases
 
@@ -89,7 +89,7 @@
 
 </p>
 
----
+
 
 ## ☁️ DevOps & Cloud
 
@@ -99,7 +99,7 @@
 
 </p>
 
----
+
 
 ## 🧰 Tools
 
@@ -109,19 +109,7 @@
 
 </p>
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Houria-hs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houria-hs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -131,7 +119,7 @@
 
 </p>
 
----
+
 
 # 📈 Activity Graph
 
@@ -141,7 +129,7 @@
 
 </p>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -160,7 +148,7 @@ To enable the snake animation:
    output/github-contribution-grid-snake.svg
 -->
 
----
+
 
 # 💡 Quote
 

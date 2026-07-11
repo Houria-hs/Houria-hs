@@ -143,16 +143,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Houria-hs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -169,15 +159,6 @@ To enable the snake animation:
 3. Commit the generated file into:
    output/github-contribution-grid-snake.svg
 -->
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 ClearClause | First place hackathon winner, an AI-powered web application that analyses legal documents |
-| ⚡ DevOps Guardian | Multi AI-agent web app that analyses GitHub repositories |
 
 ---
 

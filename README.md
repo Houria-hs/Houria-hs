@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-light.png" alt="Houria Hasbellaoui Banner" width="100%">
+  </picture>
+</p>
+
 # 👋 Hi there, I'm Houria
 
 <p align="center">

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Houria;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Houria;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,88 +18,36 @@
 
 
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-- 💻 Currently building modern Full Stack web applications.
-- 🌱 Currently learning **System Design, Algorithms And Data Structures, DevOps, AI Integrations, and Open Source.**
-- 🤝 Looking to collaborate on impactful open-source projects.
-- 🎯 Goal: Build products that solve real-world problems.
-- ⚡ Fun fact: I enjoy turning ideas into beautiful digital experiences.
-- 🎨 Hobbies: Coding, Reading, Painting, Crocheting, Playing Guitar.
+<table align="center">
+<tr>
 
+<td width="65%" valign="top">
 
+- 💻 Full Stack Developer passionate about building modern web apps.
+- 🌱 Currently learning System Design, Cloud & DevOps.
+- 🚀 Building AI-powered projects and contributing to Open Source.
+- 🎯 Goal: Create products that solve real-world problems.
+- 🎨 I love painting, astronomy, and creating tech content.
+- ☕ Coffee + Music = Productivity.
+</td>
 
-# 🌐 Connect With Me
+<td width="35%" align="center">
 
-<p align="center">
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="220" style="border-radius:15px;"/>
 
-<a href="https://linkedin.com/in/houria-hasbellaoui">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</td>
 
-<a href="https://twitter.com/HHourr68570">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:houriahasbell@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</tr>
+</table>
 
 
-
-# 💻 Tech Stack
-
-## 🖥️ Languages
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma&perline=6"/>
 </p>
-
-
-
-## ⚛️ Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass" />
-
-</p>
-
-
-
-## 🛠 Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-
-</p>
-
-
-
-## 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase" />
-
-</p>
-
-
-
-## ☁️ DevOps & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,netlifyx" />
-
-</p>
-
-
 
 ## 🧰 Tools
 
@@ -108,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn" />
 
 </p>
-
 
 
 # 🔥 GitHub Streak
@@ -147,6 +94,36 @@ To enable the snake animation:
 -->
 
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/houria-hasbellaoui">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/HHourr68570">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/hourycodes">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@hourycodes">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@hourycodes">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:houriahasbell@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 
 # 💡 Quote
 
@@ -156,7 +133,6 @@ To enable the snake animation:
 
 </p>
 
----
 
 <p align="center">
 

@@ -5,7 +5,9 @@
   </picture>
 </p>
 
-# 👋 Hi there, I'm Houria
+<h1 align="center">
+  Hi, I'm <span style="color:#EF93C4;">Houria</span>
+</h1>
 
 <p align="center">
   <img src="https://your-banner-image-url-here.com/banner.gif" alt="Tech Banner" width="100%" />
@@ -18,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
+  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=EF93C4"/>
 </p>
 
 
@@ -69,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Houria-hs&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </p>
 
@@ -79,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
 </p>
 

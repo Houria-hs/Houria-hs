@@ -6,11 +6,11 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm <span style="color:#EF93C4;">Houria</span>
+  Hey there, I'm <span style="color:#EF93C4;">Houria</span>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
@@ -92,34 +92,34 @@ To enable the snake animation:
 <p align="center">
 
 <a href="https://linkedin.com/in/houria-hasbellaoui">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/HHourr68570">
-<img src="https://img.shields.io/badge/X-000000?style=flat-squaree&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/hourycodes">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@hourycodes">
-<img src="https://img.shields.io/badge/TikTok-000000?style=flat-squaree&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@hourycodes">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:houriahasbell@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 
 <p align="center" >
-⭐ Thanks for stopping by! ⭐
+See you in the next commit 🌸
 </p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>

@@ -10,13 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://your-banner-image-url-here.com/banner.gif" alt="Tech Banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Houria;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
@@ -27,7 +21,7 @@
 
 
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
 <table align="center">
 <tr>
@@ -38,13 +32,13 @@
 - 🌱 Currently learning System Design, Cloud & DevOps.
 - 🚀 Building AI-powered projects and contributing to Open Source.
 - 🎯 Goal: Create products that solve real-world problems.
-- 🎨 I love painting, astronomy, and creating tech content.
-- ☕ Coffee + Music = Productivity.
+- 🌌 Passionate about AI, astronomy, Art,painting, and building things that matter.
+- ✨ Always chasing the next idea worth building.
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="220" style="border-radius:15px;"/>
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
 
 </td>
 
@@ -52,22 +46,14 @@
 </table>
 
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma&perline=6"/>
-</p>
-
-## 🧰 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn&perline=16"/>
 </p>
 
 
-# 🔥 GitHub Streak
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
 
@@ -77,8 +63,6 @@
 
 
 
-# 📈 Activity Graph
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
@@ -87,7 +71,7 @@
 
 
 
-# 🐍 Contribution Snake
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
   <img src="https://github.com/Houria-hs/Houria-hs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
@@ -103,50 +87,40 @@ To enable the snake animation:
 -->
 
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 
 <a href="https://linkedin.com/in/houria-hasbellaoui">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/HHourr68570">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=flat-squaree&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/hourycodes">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@hourycodes">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-000000?style=flat-squaree&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@hourycodes">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:houriahasbell@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 
-# 💡 Quote
-
-<p align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
+<p align="center" >
+⭐ Thanks for stopping by! ⭐
 </p>
-
-
 <p align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
 </p>
